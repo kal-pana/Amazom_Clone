@@ -1,1 +1,2 @@
 # Amazom_Clone
+This repository contains a clone of the Amazon website, built using only HTML and CSS. The project focuses on replicating the layout, styling, and overall design of the Amazon homepage, demonstrating my ability to create visually accurate web pages. While this clone does not include any backend functionality, it serves as a showcase of my skills in front-end development, particularly in creating responsive and well-structured layouts.
